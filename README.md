@@ -276,7 +276,7 @@ console.log( v );
 ## See Also
 
 -   <span class="package-name">[`@stdlib/stats-strided/dnanstdevyc`][@stdlib/stats/strided/dnanstdevyc]</span><span class="delimiter">: </span><span class="description">calculate the standard deviation of a double-precision floating-point strided array ignoring NaN values and using a one-pass algorithm proposed by Youngs and Cramer.</span>
--   <span class="package-name">[`@stdlib/stats-base/nanstdevyc`][@stdlib/stats/base/nanstdevyc]</span><span class="delimiter">: </span><span class="description">calculate the standard deviation of a strided array ignoring NaN values and using a one-pass algorithm proposed by Youngs and Cramer.</span>
+-   <span class="package-name">[`@stdlib/stats-strided/nanstdevyc`][@stdlib/stats/strided/nanstdevyc]</span><span class="delimiter">: </span><span class="description">calculate the standard deviation of a strided array ignoring NaN values and using a one-pass algorithm proposed by Youngs and Cramer.</span>
 -   <span class="package-name">[`@stdlib/stats-base/snanstdev`][@stdlib/stats/base/snanstdev]</span><span class="delimiter">: </span><span class="description">calculate the standard deviation of a single-precision floating-point strided array ignoring NaN values.</span>
 -   <span class="package-name">[`@stdlib/stats-base/snanvarianceyc`][@stdlib/stats/base/snanvarianceyc]</span><span class="delimiter">: </span><span class="description">calculate the variance of a single-precision floating-point strided array ignoring NaN values and using a one-pass algorithm proposed by Youngs and Cramer.</span>
 -   <span class="package-name">[`@stdlib/stats-strided/sstdevyc`][@stdlib/stats/strided/sstdevyc]</span><span class="delimiter">: </span><span class="description">calculate the standard deviation of a single-precision floating-point strided array using a one-pass algorithm proposed by Youngs and Cramer.</span>
@@ -369,7 +369,7 @@ Copyright &copy; 2016-2025. The Stdlib [Authors][stdlib-authors].
 
 [@stdlib/stats/strided/dnanstdevyc]: https://github.com/stdlib-js/stats-strided-dnanstdevyc
 
-[@stdlib/stats/base/nanstdevyc]: https://github.com/stdlib-js/stats-base-nanstdevyc
+[@stdlib/stats/strided/nanstdevyc]: https://github.com/stdlib-js/stats-strided-nanstdevyc
 
 [@stdlib/stats/base/snanstdev]: https://github.com/stdlib-js/stats-base-snanstdev
 

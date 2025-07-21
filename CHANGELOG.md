@@ -24,6 +24,7 @@ This release closes the following issue:
 
 <details>
 
+-   [`fd741a4`](https://github.com/stdlib-js/stdlib/commit/fd741a47f8c8efb5db781409587903f99470a05e) - **refactor:** update paths _(by Gururaj Gurram)_
 -   [`da458f1`](https://github.com/stdlib-js/stdlib/commit/da458f1a24eeff32429540d12c9c4995521d347c) - **chore:** fix C lint errors [(#7677)](https://github.com/stdlib-js/stdlib/pull/7677) _(by GeoDaoyu, Athan Reines)_
 -   [`5269da4`](https://github.com/stdlib-js/stdlib/commit/5269da48b9b1cbc6b3bfab79edf9682f76a73d3a) - **refactor:** update paths _(by Aayush Khanna)_
 -   [`d2ea3a2`](https://github.com/stdlib-js/stdlib/commit/d2ea3a24c45e99cc92f6338f9cfdbfd8ba408e68) - **refactor:** update paths _(by Aayush Khanna)_
@@ -43,12 +44,13 @@ This release closes the following issue:
 
 ### Contributors
 
-A total of 5 people contributed to this release. Thank you to the following contributors:
+A total of 6 people contributed to this release. Thank you to the following contributors:
 
 -   Aayush Khanna
 -   Athan Reines
 -   Dhruv Arvind Singh
 -   GeoDaoyu
+-   Gururaj Gurram
 -   Philipp Burckhardt
 
 </section>
