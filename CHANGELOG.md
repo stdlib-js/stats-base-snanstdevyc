@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-12-29)
+## Unreleased (2026-01-30)
 
 <section class="issues">
 
@@ -24,6 +24,7 @@ This release closes the following issue:
 
 <details>
 
+-   [`2035f34`](https://github.com/stdlib-js/stdlib/commit/2035f344a1a469278042b7532f034dc6119933b3) - **docs:** add function documentation _(by Athan Reines)_
 -   [`fd741a4`](https://github.com/stdlib-js/stdlib/commit/fd741a47f8c8efb5db781409587903f99470a05e) - **refactor:** update paths _(by Gururaj Gurram)_
 -   [`da458f1`](https://github.com/stdlib-js/stdlib/commit/da458f1a24eeff32429540d12c9c4995521d347c) - **chore:** fix C lint errors [(#7677)](https://github.com/stdlib-js/stdlib/pull/7677) _(by Geo Daoyu, Athan Reines)_
 -   [`5269da4`](https://github.com/stdlib-js/stdlib/commit/5269da48b9b1cbc6b3bfab79edf9682f76a73d3a) - **refactor:** update paths _(by Aayush Khanna)_
