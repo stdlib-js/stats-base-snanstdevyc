@@ -2,6 +2,40 @@
 
 > Package changelog.
 
+<section class="release" id="unreleased">
+
+## Unreleased (2026-03-16)
+
+<section class="commits">
+
+### Commits
+
+<details>
+
+-   [`5ddfcdf`](https://github.com/stdlib-js/stdlib/commit/5ddfcdfa0ef2c0e774e5a7d19033307207b70a72) - **bench:** refactor to use string interpolation in `stats/base/snanstdevyc` [(#10993)](https://github.com/stdlib-js/stdlib/pull/10993) _(by Partha Das)_
+
+</details>
+
+</section>
+
+<!-- /.commits -->
+
+<section class="contributors">
+
+### Contributors
+
+A total of 1 person contributed to this release. Thank you to this contributor:
+
+-   Partha Das
+
+</section>
+
+<!-- /.contributors -->
+
+</section>
+
+<!-- /.release -->
+
 <section class="release" id="v0.2.3">
 
 ## 0.2.3 (2026-02-08)
