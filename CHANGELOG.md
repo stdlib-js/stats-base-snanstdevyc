@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-09-17)
+## Unreleased (2026-10-11)
 
 <section class="commits">
 
@@ -12,6 +12,7 @@
 
 <details>
 
+-   [`d89a454`](https://github.com/stdlib-js/stdlib/commit/d89a454dc53059fc2e6138e553bcd00f86ddb8cf) - **test:** migrate `stats/base/snanstdevyc` to ULP-based assertions [(#15981)](https://github.com/stdlib-js/stdlib/pull/15981) _(by Athan Reines)_
 -   [`1bd2ab6`](https://github.com/stdlib-js/stdlib/commit/1bd2ab6960e500b14183c94d3da9cbb823d75000) - **bench:** refactor to use dynamic memory allocation in `stats/base/snanstdevyc` [(#11641)](https://github.com/stdlib-js/stdlib/pull/11641) _(by Uday Kakade)_
 -   [`5ddfcdf`](https://github.com/stdlib-js/stdlib/commit/5ddfcdfa0ef2c0e774e5a7d19033307207b70a72) - **bench:** refactor to use string interpolation in `stats/base/snanstdevyc` [(#10993)](https://github.com/stdlib-js/stdlib/pull/10993) _(by Partha Das)_
 
@@ -25,8 +26,9 @@
 
 ### Contributors
 
-A total of 2 people contributed to this release. Thank you to the following contributors:
+A total of 3 people contributed to this release. Thank you to the following contributors:
 
+-   Athan Reines
 -   Partha Das
 -   Uday Kakade
 
